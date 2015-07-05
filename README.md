@@ -3,3 +3,18 @@
 
 based on OpenCV 2.4.10, wiringPi 2.4+(may be I forget, newest is the best)
 
+=======
+Raspberry是树莓派官方的Debian系统
+该项目依赖于 
+
+OpenCV2.4.10,   
+
+WiringPi 2.4+
+
+需要在树莓派上编译
+
+已用的gpio口作为亮灯口为2,3,4
+
+其他等想起什么再补充吧
+
+···· 估计不会再打开这个项目了
