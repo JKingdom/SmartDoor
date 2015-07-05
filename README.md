@@ -2,7 +2,9 @@
 2015年 大三 专业综合项目 基于RaspberryPi的面部识别门锁
 
 Raspberry是树莓派官方的Debian系统
-该项目依赖于 OpenCV2.4.10,   
+该项目依赖于 
+
+OpenCV2.4.10,   
 
 WiringPi 2.4+
 
